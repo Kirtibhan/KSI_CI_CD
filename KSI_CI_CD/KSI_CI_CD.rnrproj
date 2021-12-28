@@ -33,6 +33,7 @@
   <ItemGroup>
     <Folder Include="Base Enums\" />
     <Folder Include="Classes\" />
+    <Folder Include="Table Extensions\" />
     <Folder Include="Tables\" />
   </ItemGroup>
   <ItemGroup>
@@ -55,6 +56,11 @@
       <SubType>Content</SubType>
       <Name>TestCI</Name>
       <Link>Base Enums\TestCI</Link>
+    </Content>
+    <Content Include="AxTableExtension\CustTable.KSITraining">
+      <SubType>Content</SubType>
+      <Name>CustTable.KSITraining</Name>
+      <Link>Table Extensions\CustTable.KSITraining</Link>
     </Content>
     <Content Include="AxTable\KSISalesTable">
       <SubType>Content</SubType>

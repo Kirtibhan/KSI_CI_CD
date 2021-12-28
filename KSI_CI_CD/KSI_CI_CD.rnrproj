@@ -32,8 +32,19 @@
   </PropertyGroup>
   <ItemGroup>
     <Folder Include="Base Enums\" />
+    <Folder Include="Classes\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AxClass\CustTable_EventHandler">
+      <SubType>Content</SubType>
+      <Name>CustTable_EventHandler</Name>
+      <Link>Classes\CustTable_EventHandler</Link>
+    </Content>
+    <Content Include="AxClass\TESTKSI">
+      <SubType>Content</SubType>
+      <Name>TESTKSI</Name>
+      <Link>Classes\TESTKSI</Link>
+    </Content>
     <Content Include="AxEnum\TestCI">
       <SubType>Content</SubType>
       <Name>TestCI</Name>

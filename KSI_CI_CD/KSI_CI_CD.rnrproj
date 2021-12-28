@@ -32,8 +32,14 @@
   </PropertyGroup>
   <ItemGroup>
     <Folder Include="Base Enums\" />
+    <Folder Include="Classes\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AxClass\TESTKSI">
+      <SubType>Content</SubType>
+      <Name>TESTKSI</Name>
+      <Link>Classes\TESTKSI</Link>
+    </Content>
     <Content Include="AxEnum\TestCI">
       <SubType>Content</SubType>
       <Name>TestCI</Name>

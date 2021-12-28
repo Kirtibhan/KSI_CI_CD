@@ -35,6 +35,11 @@
     <Folder Include="Classes\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AxClass\CustTableForm_EventHandler">
+      <SubType>Content</SubType>
+      <Name>CustTableForm_EventHandler</Name>
+      <Link>Classes\CustTableForm_EventHandler</Link>
+    </Content>
     <Content Include="AxClass\CustTable_EventHandler">
       <SubType>Content</SubType>
       <Name>CustTable_EventHandler</Name>

@@ -47,10 +47,15 @@
       <Name>CustTable_EventHandler</Name>
       <Link>Classes\CustTable_EventHandler</Link>
     </Content>
-    <Content Include="AxClass\TESTKSI">
+    <Content Include="AxClass\DemoTestClass">
       <SubType>Content</SubType>
-      <Name>TESTKSI</Name>
-      <Link>Classes\TESTKSI</Link>
+      <Name>DemoTestClass</Name>
+      <Link>Classes\DemoTestClass</Link>
+    </Content>
+    <Content Include="AxClass\KSITestClass">
+      <SubType>Content</SubType>
+      <Name>KSITestClass</Name>
+      <Link>Classes\KSITestClass</Link>
     </Content>
     <Content Include="AxEnum\TestCI">
       <SubType>Content</SubType>
